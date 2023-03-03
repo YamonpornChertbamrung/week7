@@ -8,7 +8,7 @@ pipeline {
         stage('Example') {
             steps {
                echo "Name : ${params.NAME}  Age : ${params.Ages}"
-               sh "python myscript.py ${params.NAME} --age ${params.Ages}"
+               
             }
         }
     }
