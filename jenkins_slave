@@ -1,8 +1,8 @@
 pipeline {
     agent any
     parameters {
-        string(name: 'NAME', defaultValue: 'Yamonporn', description: 'Your Name?')
-        string(name: 'Ages', defaultValue: '21' , description: 'Your Ages?')
+        string(name: 'NAME', defaultValue: 'Yamonporn', description: 'Your Name')
+        string(name: 'Ages', defaultValue: '21' , description: 'Your Ages')
     }
     stages {
         stage('Example') {
