@@ -1,2 +1,2 @@
-# week7 SW TOOL Homework
+# WEEK7 SW TOOL HOMEWORK
 Yamonporn Chertbamrung 63070140
