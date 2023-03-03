@@ -1,3 +1,3 @@
 # WEEK7 SW TOOL HOMEWORK
 Yamonporn Chertbamrung 63070140 <br />
-Capture Video "(https://drive.google.com/drive/folders/1aaqRqGxhlWXnxqCaGeOYN1IZLTUvqUv0?usp=share_link)"
+Capture Video https://drive.google.com/drive/folders/1aaqRqGxhlWXnxqCaGeOYN1IZLTUvqUv0?usp=share_link
